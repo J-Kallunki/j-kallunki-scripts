@@ -1,2 +1,1 @@
-# j-kallunki-scripts
-GOTO https://github.com/J-Kallunki/jkallunki-scripts
+# GOTO https://github.com/J-Kallunki/jkallunki-scripts
